@@ -24,3 +24,5 @@ then to run the program, use the command
  ```
 ./goob.sh
 ```
+
+oooh i wonder what dis scary ominous program does ... 
