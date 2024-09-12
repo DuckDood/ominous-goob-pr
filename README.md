@@ -3,6 +3,7 @@
 oooooh so ominous
 
  ## Installation
+Linux:
 
 !!Make sure you have figlet installed!!
 
