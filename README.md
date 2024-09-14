@@ -7,7 +7,7 @@ Linux:
 
 !!Make sure you have figlet installed!!
 
-you can do that using
+You can do that using:
 
  ```
 sudo apt-get install figlet
