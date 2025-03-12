@@ -5,14 +5,6 @@ oooooh so ominous
  ## Installation
 Linux:
 
-!!Make sure you have figlet installed!!
-
-You can do that using:
-
- ```
-sudo apt-get install figlet
-```
-
  Unzip the file then run
 
  
