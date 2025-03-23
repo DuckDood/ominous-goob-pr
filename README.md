@@ -17,6 +17,12 @@ Then to run the program, use the command
  ```
 ./goob.sh
 ```
+
+### OR
+
+```
+make
+```
 Windows:
 
 I dont fucking know make your own port you weirdo ui user's
